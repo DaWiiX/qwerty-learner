@@ -3862,6 +3862,17 @@ const programming: DictionaryResource[] = [
     language: 'code',
     languageCategory: 'code',
   },
+  {
+    id: 'DaWiiX250330',
+    name: 'dawiix私人词库250330',
+    description: 'dawiix私人词库250330',
+    category: '代码练习',
+    tags: ['dawiix'],
+    url: '/dicts/dawiix_250330.json',
+    length: 513,
+    language: 'code',
+    languageCategory: 'code',
+  },
 ]
 
 // 日语词典
